@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=BB86FC&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+F%C4%A7%C4%81s%C4%81s+%F0%9F%91%8B;Full-stack+%26+Game+Developer;SA-MP+%C2%B7+GTA+V+%C2%B7+Vue+%C2%B7+Nuxt+%C2%B7+Electron;Building+things+that+actually+work." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=BB86FC&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Fha%C5%A1as+%F0%9F%91%8B;Full-stack+%26+Game+Developer;SA-MP+%C2%B7+GTA+V+%C2%B7+Vue+%C2%B7+Nuxt+%C2%B7+Electron;Building+things+that+actually+work." alt="Typing SVG" />
 
 **Developer from Lithuania 🇱🇹** — building game systems, web apps and desktop tools.
 
@@ -13,19 +13,23 @@
 
 ### 🧑‍💻 About Me
 
-```ts
-const fhasas = {
-  location: "Lithuania 🇱🇹",
-  focus: ["Multiplayer game systems", "Web applications", "Desktop apps", "Discord bots"],
-  currentlyBuilding: "CEF-powered SA-MP experiences",
-  philosophy: "Ship complete projects, not just code snippets.",
-};
-```
+I'm a **self-taught developer** from Lithuania. No bootcamps, no degree in this. I learned by
+breaking things, reading docs at 3 AM and rebuilding projects until they worked.
 
-- 🎮 Building **multiplayer gamemodes, launchers and CEF interfaces** for SA-MP & GTA V
-- 🌐 Crafting **modern web & desktop apps** with Vue, Nuxt, TypeScript and Electron
-- 🤖 Creating **Discord bots & automation** with Discord.js
-- 🧩 I enjoy working across the whole stack — from Pawn scripts to polished UIs
+It started with **SA-MP and Pawn**. Making gamemodes for servers I played on got me into
+programming. From there I moved to **JavaScript**, then **TypeScript**, and now I build
+web apps, desktop apps and Discord bots too.
+
+- 🌱 **Currently learning:** TypeScript in depth, Nuxt, and better backend architecture with Node.js & MongoDB
+- 🎯 **Next on my list:** testing, CI/CD and writing cleaner, more scalable code
+- 🎮 **Favorite thing to build:** multiplayer systems with modern CEF interfaces
+- 💬 **Ask me about:** SA-MP, Pawn, Vue, Electron, Discord.js
+
+#### 💭 How I think about code
+
+> The best way to learn is to build something real.
+> I'd rather finish one complete project than start ten half-done ones.
+> Clean code matters, but working code matters first.
 
 ---
 
