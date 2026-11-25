@@ -13,23 +13,20 @@
 
 ### 🧑‍💻 About Me
 
-I'm a **self-taught developer** from Lithuania. No bootcamps, no degree in this. I learned by
-breaking things, reading docs at 3 AM and rebuilding projects until they worked.
+I'm a **self-taught developer** from Lithuania who learns by building.
 
-It started with **SA-MP and Pawn**. Making gamemodes for servers I played on got me into
-programming. From there I moved to **JavaScript**, then **TypeScript**, and now I build
-web apps, desktop apps and Discord bots too.
+My journey started in **SA-MP** — I wanted my own server features, so I started writing
+**Pawn**. One gamemode led to another, and soon I needed better interfaces, which pulled me
+into **HTML, CSS and JavaScript** through **CEF**. That opened the door to the web:
+**Vue**, **Nuxt**, **TypeScript**, **Laravel**, and later **Electron** for desktop apps.
 
-- 🌱 **Currently learning:** TypeScript in depth, Nuxt, and better backend architecture with Node.js & MongoDB
-- 🎯 **Next on my list:** testing, CI/CD and writing cleaner, more scalable code
-- 🎮 **Favorite thing to build:** multiplayer systems with modern CEF interfaces
-- 💬 **Ask me about:** SA-MP, Pawn, Vue, Electron, Discord.js
+What I like most is connecting different worlds — a game server, a web panel, a launcher
+and a Discord bot all working together as one project.
 
-#### 💭 How I think about code
-
-> The best way to learn is to build something real.
-> I'd rather finish one complete project than start ten half-done ones.
-> Clean code matters, but working code matters first.
+- 🔭 **Working on:** SA-MP projects with modern CEF-based in-game interfaces
+- 🦀 **Learning:** Rust — curious about performance and lower-level programming
+- ⚡ **Strength:** picking up new tools fast and finishing what I start
+- 💬 **Ask me about:** SA-MP, Pawn, CEF, Vue, Laravel, Electron, Discord.js
 
 ---
 
@@ -37,15 +34,16 @@ web apps, desktop apps and Discord bots too.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,html,css,nodejs,vue,nuxtjs,electron,mongodb,git,github,discord&perline=12" />
+<img src="https://skillicons.dev/icons?i=ts,js,php,rust,html,css,nodejs,vue,nuxtjs,laravel,electron,mongodb,git,github,discord&perline=15" />
 
 </div>
 
 | Area | Tools |
 |---|---|
-| 🎮 **Game Development** | SA-MP · GTA V · CEF · Pawn |
+| 🎮 **Game Development** | SA-MP · GTA V · Pawn · CEF (in-game HTML/JS interfaces) |
 | 🌐 **Web Development** | Vue · Nuxt · TypeScript · HTML · CSS |
-| ⚙️ **Backend** | Node.js · JavaScript · MongoDB · REST APIs |
+| ⚙️ **Backend** | Node.js · Laravel · PHP · MongoDB · REST APIs |
+| 🦀 **Learning** | Rust |
 | 🖥️ **Desktop** | Electron |
 | 🤖 **Bots & Automation** | Discord.js |
 
