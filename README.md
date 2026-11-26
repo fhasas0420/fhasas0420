@@ -13,20 +13,13 @@
 
 ### 🧑‍💻 About Me
 
-I'm a **self-taught developer** from Lithuania who learns by building.
+I'm a **self-taught developer from Lithuania** who enjoys learning by building real projects.
 
-My journey started in **SA-MP** — I wanted my own server features, so I started writing
-**Pawn**. One gamemode led to another, and soon I needed better interfaces, which pulled me
-into **HTML, CSS and JavaScript** through **CEF**. That opened the door to the web:
-**Vue**, **Nuxt**, **TypeScript**, **Laravel**, and later **Electron** for desktop apps.
+I started out with **SA-MP and Pawn**, creating game systems and gradually getting into the technical side of things. From there, my interests expanded into **web development with Laravel, Vue, Nuxt and JavaScript**, later moving further into **TypeScript, Node.js and Electron**.
 
-What I like most is connecting different worlds — a game server, a web panel, a launcher
-and a Discord bot all working together as one project.
+Today, I work across different areas from **web applications and APIs, desktop apps and GTA-related projects**. I enjoy exploring new technologies and combining them to turn ideas into complete, working systems.
 
-- 🔭 **Working on:** SA-MP projects with modern CEF-based in-game interfaces
-- 🦀 **Learning:** Rust — curious about performance and lower-level programming
-- ⚡ **Strength:** picking up new tools fast and finishing what I start
-- 💬 **Ask me about:** SA-MP, Pawn, CEF, Vue, Laravel, Electron, Discord.js
+**Always building, experimenting and learning along the way.**
 
 ---
 
@@ -59,6 +52,11 @@ and a Discord bot all working together as one project.
 | [**sa-mp-cef-launcher**](https://github.com/fhasas0420/sa-mp-cef-launcher) | Custom launcher for SA-MP servers |
 | [**SAMP-Vice-City**](https://github.com/fhasas0420/SAMP-Vice-City) | Vice City experience brought to SA-MP |
 
+#### 🤖 Discord
+ 
+| Project | Description |
+|---|---|
+| [**BarasBOT**](https://github.com/fhasas0420/Discord-Baras) | Custom Discord bot built with Discord.js |
 
 ---
 
