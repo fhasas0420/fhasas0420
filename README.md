@@ -52,8 +52,14 @@ Today, I work across different areas from **web applications and APIs, desktop a
 | [**sa-mp-cef-launcher**](https://github.com/fhasas0420/sa-mp-cef-launcher) | Custom launcher for SA-MP servers |
 | [**SAMP-Vice-City**](https://github.com/fhasas0420/SAMP-Vice-City) | Vice City experience brought to SA-MP |
 
+#### 🌐 Web
+
+| Project | Description |
+|---|---|
+| [**HyList**](https://github.com/fhasas0420/Hylist) | Hytale server list with voting, reviews, live server status and vote rewards. Built with Nuxt 4, Tailwind CSS, Prisma and MySQL |
+
 #### 🤖 Discord
- 
+
 | Project | Description |
 |---|---|
 | [**BarasBOT**](https://github.com/fhasas0420/Discord-Baras) | Custom Discord bot built with Discord.js |
@@ -65,7 +71,7 @@ Today, I work across different areas from **web applications and APIs, desktop a
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=fhasas0420&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=bb86fc&icon_color=bb86fc" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhasas0420&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=bb86fc" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhasas0420&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=bb86fc" />
 
 <img src="https://streak-stats.demolab.com?user=fhasas0420&theme=tokyonight&hide_border=true&background=0d1117&ring=bb86fc&fire=bb86fc&currStreakLabel=bb86fc" />
 
